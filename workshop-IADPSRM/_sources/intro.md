@@ -6,3 +6,7 @@ The workshop, "Image analysis and data processing in the super-resolution micros
 
 ```{tableofcontents}
 ```
+
+## Newsletter
+
+If you're interested in staying informed and connected within the field of bioimage analysis and microscopy, be sure to <a href="https://dashboard.mailerlite.com/forms/296905/79732897429325210/share"> >>>sign up<<< </a> for the Martins BioImage Analysis or Viničná Microscopy Core Facility newsletter today!
